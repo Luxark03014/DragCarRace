@@ -1,0 +1,5 @@
+﻿  DragRace.cpp
+C:\Users\lucasmaragu\OneDrive - Centre d'Estudis Monlau\M5\QuemarCalorias\DragRace\DragRace\DragRace.cpp(92,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\lucasmaragu\OneDrive - Centre d'Estudis Monlau\M5\QuemarCalorias\DragRace\DragRace\DragRace.cpp(93,6): warning C4101: 'dado': variable local sin referencia
+C:\Users\lucasmaragu\OneDrive - Centre d'Estudis Monlau\M5\QuemarCalorias\DragRace\DragRace\DragRace.cpp(94,6): warning C4101: 'speed': variable local sin referencia
+  DragRace.vcxproj -> C:\Users\lucasmaragu\OneDrive - Centre d'Estudis Monlau\M5\QuemarCalorias\DragRace\x64\Debug\DragRace.exe
